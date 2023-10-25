@@ -1,0 +1,124 @@
+body {
+    background-color: orange;
+    margin: 0;
+}
+
+.mother-div {
+    border: 4px solid;
+    height: 400px;
+    margin: 320px auto 0 auto;
+    width: 1600px;
+}
+
+.chess {
+    height: 200px;
+    width: 200px;
+}
+
+.one {
+    background-color: white;
+}
+
+.two {
+    background-color: black;
+    bottom: 200px;
+    left: 200px;
+    position: relative;
+}
+
+.three {
+    background-color: white;
+    bottom: 400px;
+    left: 400px;
+    position: relative;
+}
+
+.four {
+    background-color: black;
+    bottom: 600px;
+    left: 600px;
+    position: relative;
+}
+
+.five {
+    background-color: white;
+    bottom: 800px;
+    left: 800px;
+    position: relative;
+}
+
+.six {
+    background-color: black;
+    bottom: 1000px;
+    left: 1000px;
+    position: relative;
+}
+
+.seven {
+    background-color: white;
+    bottom: 1200px;
+    left: 1200px;
+    position: relative;
+}
+
+.eight {
+    background-color: black;
+    bottom: 1400px;
+    left: 1400px;
+    position: relative;
+}
+
+.nine {
+    background-color: black;
+    bottom: 1400px;
+    position: relative;
+}
+
+.ten {
+    background-color: white;
+    bottom: 1600px;
+    left: 200px;
+    position: relative;
+}
+
+.eleven {
+    background-color: black;
+    bottom: 1800px;
+    left: 400px;
+    position: relative;
+}
+
+.twelve {
+    background-color: white;
+    bottom: 2000px;
+    left: 600px;
+    position: relative;
+}
+
+.thirteen {
+    background-color: black;
+    bottom: 2200px;
+    left: 800px;
+    position: relative;
+}
+
+.fourteen {
+    background-color: white;
+    bottom: 2400px;
+    left: 1000px;
+    position: relative;
+}
+
+.fifteen {
+    background-color: black;
+    bottom: 2600px;
+    left: 1200px;
+    position: relative;
+}
+
+.sixteen {
+    background-color: white;
+    bottom: 2800px;
+    left: 1400px;
+    position: relative;
+}
